@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
                                                              
  <p align="center">
-  <img src="https://cdn.dribbble.com/users/4163427/screenshots/7378110/media/2aa7bc0d0f2259ace7cb4520b3842327.gif" width="50%">
+  <img src="https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif" width="50%">
   <br><br>
  <samp>
     :wave: Hi there! I am Devang Kushwah. <br>
