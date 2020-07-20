@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
                                                              
  <p align="center">
+  <img src="https://1.bp.blogspot.com/-tjA7r2EyLMA/Up1ZHuf4soI/AAAAAAAAASc/uqzbXGsUC6g/s640/elf-walk-cycle.gif" width="50%">
+  <br><br>
  <samp>
     :wave: Hi there! I am Devang Kushwah. <br>
      A developer and tech enthusiast i like learning new things and brushing up my skills.
