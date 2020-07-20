@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
                                                         👋 Hi there! I am Devang Kushwah.
-                                      A developer and quick learner Who continuously improve skills.
+                                      A developer and tech enthusiast i like learning new things and brushing up my skills
 
 
 I work on ... 💻
@@ -25,3 +25,5 @@ JavaScript . HTML . CSS . GIT
 
 Tools & Libraries
 VSCode, AdobeXD, Figma, Illustrator, Photoshop, After Effect, Premier Pro
+
+📫 How to reach me: [Linkedin - @Devang Kushwah](https://www.linkedin.com/in/devang-kushwah-6535a0175/)
