@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <br>
   <br>
 
-  ### I work on ... 💻
+  ### 🔭 I’m currently working on...💻
 
   #### Languages & Framework
   JavaScript . HTML . CSS . GIT 
