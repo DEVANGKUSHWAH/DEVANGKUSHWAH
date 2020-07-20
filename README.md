@@ -15,15 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-                                                              I am Devang Kushwah.
-                                  A developer and tech enthusiast i like learning new things and brushing up my skills
+                                                             
+ <p align="center">
+ <samp>
+    :wave: Hi there! I am Devang Kushwah. <br>
+     A developer and tech enthusiast i like learning new things and brushing up my skills.
+  </samp>
+  <br>
+  <br>
+  <br>
 
+  ## I work on ... 💻
+  ### I work on ... 💻
 
-I work on ... 💻
-Languages & Framework
-JavaScript . HTML . CSS . GIT 
-
-Tools & Libraries
-VSCode, AdobeXD, Figma, Illustrator, Photoshop, After Effect, Premier Pro
-
-📫 How to reach me: [Linkedin - @Devang Kushwah](https://www.linkedin.com/in/devang-kushwah-6535a0175/)
+  #### Languages & Framework
+  JavaScript . HTML . CSS . GIT 
+   
+  #### Tools & Libraries
+  VSCode, AdobeXD, Figma, Illustrator, Photoshop, After Effect, Premier Pro
+  
+  📫 How to reach me: [Linkedin - @Devang Kushwah](https://www.linkedin.com/in/devang-kushwah-6535a0175/)
+</p>
