@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-                                                              👋 Hi there! I am Devang Kushwah.
-                                             A developer and quick learner Who continuously improve skills.
+                                                      👋 Hi there! I am Devang Kushwah.
+                                      A developer and quick learner Who continuously improve skills.
 
 
 I work on ... 💻
