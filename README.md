@@ -35,5 +35,6 @@ Here are some ideas to get you started:
   #### Tools & Libraries
   VSCode, AdobeXD, Figma, Illustrator, Photoshop, After Effect, Premier Pro
   
-  📫 How to reach me: [Linkedin - @Devang Kushwah](https://www.linkedin.com/in/devang-kushwah-6535a0175/)
+  #### 📫 How to reach me
+  [Linkedin - @Devang Kushwah](https://www.linkedin.com/in/devang-kushwah-6535a0175/)
 </p>
