@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 https://i.pinimg.com/originals/99/20/a8/9920a890cd16cc72d1546baeff7edfe0.gif
 https://1.bp.blogspot.com/-tjA7r2EyLMA/Up1ZHuf4soI/AAAAAAAAASc/uqzbXGsUC6g/s640/elf-walk-cycle.gif
+https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif
 -->
 
                                                              
  <p align="center">
-  <img src="https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif" width="50%">
+  <img src="https://i.pinimg.com/originals/99/20/a8/9920a890cd16cc72d1546baeff7edfe0.gif" width="50%">
   <br><br>
  <samp>
     :wave: Hi there! I am Devang Kushwah. <br>
