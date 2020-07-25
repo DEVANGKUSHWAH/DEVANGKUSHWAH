@@ -32,7 +32,7 @@ https://1.bp.blogspot.com/-tjA7r2EyLMA/Up1ZHuf4soI/AAAAAAAAASc/uqzbXGsUC6g/s640/
   ### 🔭 I’m currently working on...💻
 
   #### Languages & Framework
-  JavaScript . HTML . CSS . GIT 
+  JavaScript . HTML5 . CSS . GIT 
    
   #### Tools & Libraries
   VSCode, AdobeXD, Figma, Illustrator, Photoshop, After Effect, Premier Pro
