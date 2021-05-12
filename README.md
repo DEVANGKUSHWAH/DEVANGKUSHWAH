@@ -36,7 +36,7 @@ https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_drib
   JavaScript . HTML5 . CSS . GIT 
    
   #### Tools & Libraries
-  VSCode, AdobeXD, Figma, Illustrator, Photoshop, After Effect, Premier Pro
+  VSCode, AdobeXD, Figma, Illustrator, Photoshop.
   
   #### 📫 How to reach me
   [Linkedin - @Devang Kushwah](https://www.linkedin.com/in/devang-kushwah-6535a0175/)
