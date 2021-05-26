@@ -23,7 +23,7 @@ https://cdn.dribbble.com/users/287797/screenshots/15056983/media/10984afe4ea1429
 
                                                              
  <p align="center">
-  <img src="https://cdn.dribbble.com/users/348324/screenshots/9609941/media/684b03c6d4f3ba8a1d57c30319eb4e65.gif" width="50%">
+  <img src="https://cdn.dribbble.com/users/348324/screenshots/9609941/media/684b03c6d4f3ba8a1d57c30319eb4e65.gif" width="30%">
   <br><br>
  <samp>
     :wave: Hi there! I am Devang Kushwah. <br>
