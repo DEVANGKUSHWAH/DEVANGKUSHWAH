@@ -21,7 +21,7 @@ https://dribbble.com/shots/15056983-Motion-Secrets
 
                                                              
  <p align="center">
-  <img src="https://dribbble.com/shots/15056983-Motion-Secrets" width="50%">
+  <img src="https://cdn.dribbble.com/users/287797/screenshots/15056983/media/10984afe4ea14297efd0140a7f0d9236.gif" width="50%">
   <br><br>
  <samp>
     :wave: Hi there! I am Devang Kushwah. <br>
