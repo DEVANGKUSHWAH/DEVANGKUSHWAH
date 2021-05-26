@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 https://i.pinimg.com/originals/99/20/a8/9920a890cd16cc72d1546baeff7edfe0.gif
 https://1.bp.blogspot.com/-tjA7r2EyLMA/Up1ZHuf4soI/AAAAAAAAASc/uqzbXGsUC6g/s640/elf-walk-cycle.gif
 https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif
+https://dribbble.com/shots/15056983-Motion-Secrets
 -->
 
                                                              
  <p align="center">
-  <img src="https://i.pinimg.com/originals/99/20/a8/9920a890cd16cc72d1546baeff7edfe0.gif" width="50%">
+  <img src="https://dribbble.com/shots/15056983-Motion-Secrets" width="50%">
   <br><br>
  <samp>
     :wave: Hi there! I am Devang Kushwah. <br>
