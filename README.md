@@ -17,11 +17,13 @@ https://i.pinimg.com/originals/99/20/a8/9920a890cd16cc72d1546baeff7edfe0.gif
 https://1.bp.blogspot.com/-tjA7r2EyLMA/Up1ZHuf4soI/AAAAAAAAASc/uqzbXGsUC6g/s640/elf-walk-cycle.gif
 https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif
 https://dribbble.com/shots/15056983-Motion-Secrets
+https://cdn.dribbble.com/users/348324/screenshots/7056436/media/c6e6aac894c4b54dbcea472ed156d398.mp4
+https://cdn.dribbble.com/users/287797/screenshots/15056983/media/10984afe4ea14297efd0140a7f0d9236.gif
 -->
 
                                                              
  <p align="center">
-  <img src="https://cdn.dribbble.com/users/287797/screenshots/15056983/media/10984afe4ea14297efd0140a7f0d9236.gif" width="50%">
+  <img src="https://cdn.dribbble.com/users/348324/screenshots/7056436/media/c6e6aac894c4b54dbcea472ed156d398.mp4" width="50%">
   <br><br>
  <samp>
     :wave: Hi there! I am Devang Kushwah. <br>
