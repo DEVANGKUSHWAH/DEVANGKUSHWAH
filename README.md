@@ -33,7 +33,7 @@ https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_drib
   ### 🔭 I’m currently working on...💻
 
   #### Languages & Framework
-  JavaScript . HTML5 . CSS . GIT 
+  JavaScript . HTML5 . CSS . bootstrap . GIT 
    
   #### Tools & Libraries
   VSCode, AdobeXD, Figma, Illustrator, Photoshop.
