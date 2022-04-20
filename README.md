@@ -36,7 +36,7 @@ https://cdn.dribbble.com/users/287797/screenshots/15056983/media/10984afe4ea1429
   ### 🔭 I’m currently working on...💻
 
   #### Languages & Framework
-  React . Angular . JavaScript . HTML5 . CSS . bootstrap . GIT 
+  React . Angular . JavaScript . HTML5 . CSS . bootstrap . Tailwindcss . GIT 
    
   #### Tools & Libraries
   VSCode, AdobeXD, Figma, Illustrator, Photoshop.
