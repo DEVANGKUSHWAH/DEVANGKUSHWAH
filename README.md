@@ -27,7 +27,7 @@ https://cdn.dribbble.com/users/287797/screenshots/15056983/media/10984afe4ea1429
   <br><br>
  <samp>
     :wave: Hi there! I am Devang Kushwah. <br>
-     A developer and tech enthusiast i like learning new things and brushing up my skills.
+     A  Developer, Designer, Photographer and an Engineer. I like learning new things and brushing up my skills.
   </samp>
   <br>
   <br>
@@ -36,7 +36,7 @@ https://cdn.dribbble.com/users/287797/screenshots/15056983/media/10984afe4ea1429
   ### 🔭 I’m currently working on...💻
 
   #### Languages & Framework
-  React . Angular . JavaScript . HTML5 . CSS . bootstrap . Tailwind . GIT 
+  React . Angular . JavaScript . HTML5 . CSS . SASS . bootstrap . TailwindCSS . GIT 
    
   #### Tools & Libraries
   VSCode, AdobeXD, Figma, Illustrator, Photoshop.
