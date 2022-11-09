@@ -37,10 +37,10 @@ https://cdn.dribbble.com/users/287797/screenshots/15056983/media/10984afe4ea1429
   ### 🔭 I’m currently working on...💻
 
   #### Languages & Framework
-  React . Angular . JavaScript . HTML5 . CSS . SASS . bootstrap . TailwindCSS . GIT 
+  React . Node . Express . MongoDB . Angular . JavaScript . HTML5 . CSS . SASS . bootstrap . TailwindCSS . GIT 
    
   #### Tools & Libraries
-  VSCode, AdobeXD, Figma, Illustrator, Photoshop.
+  VSCode, Mongoose, Postman, AdobeXD, Figma, Illustrator, Photoshop.
   
   #### 📫 How to reach me
   [Linkedin - @Devang Kushwah](https://www.linkedin.com/in/devang-kushwah-6535a0175/)
