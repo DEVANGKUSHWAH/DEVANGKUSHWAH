@@ -21,12 +21,28 @@ https://cdn.dribbble.com/users/348324/screenshots/7056436/media/c6e6aac894c4b54d
 https://cdn.dribbble.com/users/287797/screenshots/15056983/media/10984afe4ea14297efd0140a7f0d9236.gif
 -->
 
-                                                             
+                                                            
  <p align="center">
   <img src="https://cdn.dribbble.com/users/348324/screenshots/9609941/media/684b03c6d4f3ba8a1d57c30319eb4e65.gif" width="30%">
   <br><br>
+  
+  <div id="header" align="center">
+  <h2> Hi 👋 I'm Devang Kushwah.</h2>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/devang-kushwah-6535a0175/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/DVngKuhwh1">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://www.devangkushwah.me/">
+      <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog Badge"/>
+    </a>
+  </div>
+</div>
+
  <samp>
-    :wave: Hi there! I am Devang Kushwah. <br>
+<!--     :wave: Hi there! I am Devang Kushwah. <br> -->
      A  Developer, Designer, Photographer and an Engineer. <br> 
    I am a tech enthusiast and I like to learn new things and hone my skills.
   </samp>
@@ -42,6 +58,4 @@ https://cdn.dribbble.com/users/287797/screenshots/15056983/media/10984afe4ea1429
   #### Tools & Libraries
   VSCode, Mongoose, Postman, AdobeXD, Figma, Illustrator, Photoshop.
   
-  #### 📫 How to reach me
-  [Linkedin - @Devang Kushwah](https://www.linkedin.com/in/devang-kushwah-6535a0175/)
 </p>
