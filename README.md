@@ -1,11 +1,9 @@
-                                                                
-
 <!--
 **DEVANGKUSHWAH/DEVANGKUSHWAH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -51,12 +49,25 @@ https://cdn.dribbble.com/users/287797/screenshots/15056983/media/10984afe4ea1429
   <br>
   <br>
 
-  ### 🔭 I’m currently working on...💻
 
-  #### Languages & Framework
-  React . Node . Express . MongoDB . Angular . JavaScript . HTML5 . CSS . SASS . bootstrap . TailwindCSS . GIT 
-   
-  #### Tools & Libraries
-  VSCode, Mongoose, Postman, AdobeXD, Figma, Illustrator, Photoshop.
-  
+### 🔭 I’m currently working on...💻
+
+#### Languages & Framework
+
+React . Node . Express . MongoDB . Angular . JavaScript . HTML5 . CSS . SASS . bootstrap . TailwindCSS . GIT
+
+#### Tools & Libraries
+
+VSCode, Mongoose, Postman, AdobeXD, Figma, Illustrator, Photoshop.
+
 </p>
+
+  #### :fire: My Stats :
+<!-- - [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devangkushwah&theme=dark&background=000000)](https://git.io/streak-stats) 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&layout=compact&theme=light)](https://github.com/sudheerj/github-readme-stats) -->
+
+<a href="https://github.com/DEVANGKUSHWAH">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devangkushwah&theme=light&count_private=true&layout=compact" width="280" alt="Devang's most used languages" />
+</a>
+  
