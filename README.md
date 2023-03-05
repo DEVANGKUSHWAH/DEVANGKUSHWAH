@@ -19,15 +19,18 @@ https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_drib
 https://dribbble.com/shots/15056983-Motion-Secrets
 https://cdn.dribbble.com/users/348324/screenshots/7056436/media/c6e6aac894c4b54dbcea472ed156d398.mp4
 https://cdn.dribbble.com/users/287797/screenshots/15056983/media/10984afe4ea14297efd0140a7f0d9236.gif
+   :wave: Hi there! I am Devang Kushwah.
 -->
 
-                                                            
- <p align="center">
-  <img src="https://cdn.dribbble.com/users/348324/screenshots/9609941/media/684b03c6d4f3ba8a1d57c30319eb4e65.gif" width="30%">
-  <br><br>
-  
   <div id="header" align="center">
   <h2> Hi 👋 I'm Devang Kushwah.</h2>
+   <samp>
+     A  Developer, Designer, Photographer and an Engineer. <br> 
+   I am a tech enthusiast and I like to learn new things and hone my skills.
+  </samp>
+  <br>
+  <br>
+  
   <div id="badges">
     <a href="https://www.linkedin.com/in/devang-kushwah-6535a0175/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -40,12 +43,10 @@ https://cdn.dribbble.com/users/287797/screenshots/15056983/media/10984afe4ea1429
     </a>
   </div>
 </div>
+  <br>
 
- <samp>
-<!--     :wave: Hi there! I am Devang Kushwah. <br> -->
-     A  Developer, Designer, Photographer and an Engineer. <br> 
-   I am a tech enthusiast and I like to learn new things and hone my skills.
-  </samp>
+ <p align="center">
+  <img src="https://cdn.dribbble.com/users/348324/screenshots/9609941/media/684b03c6d4f3ba8a1d57c30319eb4e65.gif" width="30%">
   <br>
   <br>
   <br>
