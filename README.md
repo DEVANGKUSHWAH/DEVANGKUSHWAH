@@ -61,7 +61,7 @@ React . Node . Express . MongoDB . Angular . JavaScript . HTML5 . CSS . SASS . b
 
 #### Tools & Libraries
 
-VSCode, Mongoose, Postman, AdobeXD, Figma, Illustrator, Photoshop.
+VSCode, Mongoose, Postman, AdobeXD, Figma.
 
 </p>
 
