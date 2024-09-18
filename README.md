@@ -23,7 +23,7 @@ https://cdn.dribbble.com/users/287797/screenshots/15056983/media/10984afe4ea1429
   <div id="header" align="center">
   <h2> Hi 👋 I'm Devang Kushwah.</h2>
    <samp>
-     A  Developer, Designer, Photographer and an Engineer. <br> 
+     A  Developer, Photographer and an Engineer. <br> 
    I am a tech enthusiast and I like to learn new things and hone my skills.
   </samp>
   <br>
