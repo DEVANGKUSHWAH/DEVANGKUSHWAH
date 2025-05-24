@@ -78,20 +78,25 @@ VSCode, Mongoose, Postman, AdobeXD, Figma.
 -->
 
 
-<div id="header" align="center">
-  <h2>Hi 👋 I'm Devang Kushwah</h2>
-  <samp>
-    A passionate <strong>Frontend Developer</strong> with over <strong>3 years of experience</strong> in building performant and user-friendly applications using the <strong>MERN Stack</strong>.<br>
-    I specialize in <strong>React, TypeScript, Redux Toolkit, JavaScript</strong> and believe in clean code, smooth UX, and performance-driven design.
+<!--
+✨ Welcome to Devang Kushwah's GitHub! ✨
+-->
+
+  <div id="header" align="center">
+  <h2> Hi 👋 I'm Devang Kushwah.</h2>
+   <samp>
+     A  Developer, Photographer and an Engineer. <br> 
+   I am a tech enthusiast and I like to learn new things and hone my skills.
   </samp>
   <br><br>
+
   <div id="badges">
     <a href="https://www.linkedin.com/in/devang-kushwah-6535a0175/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.instagram.com/devang._.k30/">
       <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
+    </a> 
     <a href="https://twitter.com/DVngKuhwh1">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
@@ -102,46 +107,23 @@ VSCode, Mongoose, Postman, AdobeXD, Figma.
 </div>
 
 <br>
+
 <p align="center">
   <img src="https://cdn.dribbble.com/users/348324/screenshots/9609941/media/684b03c6d4f3ba8a1d57c30319eb4e65.gif" width="30%">
 </p>
-<br>
 
 ---
 
-### 🔥 About Me
+### 🛠️ Tech Stack
 
-* 💻 Focused on **React, Redux Toolkit, TypeScript, JavaScript (ES6+), Node.js, Express.js, MongoDB**
-* 🎨 UI craftsmanship using **Material UI, TailwindCSS, Bootstrap, SASS**
-* 🛠️ Emphasizing code readability, scalable architecture, and performance
-* 🏆 Recognized for contribution and ownership in agile environments
+#### **Languages & Frameworks**
+`React.js` `Next.js` `Node.js` `Express.js` `TypeScript` `JavaScript` `HTML5` `CSS3` `SCSS` `MongoDB` `MySQL`
 
----
+#### **Libraries & Tools**
+`Redux Toolkit` `Mongoose` `Jest` `React Testing Library` `Three.js` `Strapi` `ArcGIS` `Postman` `Figma` `Adobe XD` `VS Code` `Git` `GitHub` `Bitbucket` `Jira` `Azure`
 
-### 🚀 I’m Currently Working On
-
-* A MERN stack-based portfolio project
-* Interview preparation and improving testing skills with **Jest** and **RTL**
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### Languages & Frameworks
-
-* React, Redux Toolkit, TypeScript, JavaScript, HTML5, CSS3, Node.js, Express, MongoDB, Angular
-
-#### Styling & UI
-
-* TailwindCSS, Bootstrap, SCSS, Material UI
-
-#### Dev Tools & Libraries
-
-* VSCode, Postman, Mongoose, Git, AdobeXD, Figma
-
-#### Testing
-
-* Jest, React Testing Library
+#### **DevOps & Deployment**
+`Heroku` `Vercel` `Netlify` `GitHub Actions` `CI/CD Pipelines` `Agile/Scrum`
 
 ---
 
@@ -153,8 +135,5 @@ VSCode, Mongoose, Postman, AdobeXD, Figma.
 
 ---
 
-📫 **Reach out to me:** [devangkushwahofficial@gmail.com](mailto:devangkushwahofficial@gmail.com)
-
-🔹 *"Keep building. Keep learning. Keep pushing boundaries."* 🚀
-
-  
+> 💬 _"Code with intention. Deploy with confidence. Learn without limits."_  
+> — Devang Kushwah
