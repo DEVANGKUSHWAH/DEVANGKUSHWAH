@@ -39,9 +39,10 @@ https://cdn.dribbble.com/users/287797/screenshots/15056983/media/10984afe4ea1429
     <a href="https://twitter.com/DVngKuhwh1">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="https://www.devangkushwah.me/">
-      <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog Badge"/>
-    </a>
+    <a href="https://devangkushwah.onrender.com/">
+  <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+</a>
+
   </div>
 </div>
   <br>
